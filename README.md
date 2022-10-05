@@ -20,11 +20,10 @@ nesse desafio,  foram  empregados os principios basicos de contrução  de pagin
 <img height="200px" src="https://cdn.screencast.com/uploads/g000302DTxnkfg9CbU5w0TLIftZRo/68747470733a2f2f692e696d6775722e636f6d2f6a4877654749622e706e67.png?sv=2021-08-06&st=2022-10-05T16%3A57%3A32Z&se=2022-10-06T16%3A57%3A32Z&sr=b&sp=r&sig=w%2B3HWw5WTEjRoWatn15bFY3OGYtWcy2mW0plIg%2BJMyE%3D">
 <img height="200px" src="https://cdn.screencast.com/uploads/g000302X1Sy0dChVz8ZyefPbunqnp/68747470733a2f2f692e696d6775722e636f6d2f755470637472712e706e67.png?sv=2021-08-06&st=2022-10-05T16%3A57%3A41Z&se=2022-10-06T16%3A57%3A41Z&sr=b&sp=r&sig=7eX6ZAWjONEmknAni%2FzXck4zS%2Bty%2F7bFZoZXA5DiC9Q%3D"><br><br>
 ##                                                                      Tecnologias Utilizadas:
-linguagem : <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br><br>
+linguagem : <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br><br>
 Framework:  <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br><br>
 IDE: <img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br><br> 
-Packeges: <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><br><br>
-Design: <img align ="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+Design: <img align  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br><br>
 ---
 
 _Tornando público os desafios de módulo fornecidos pela Cubos Academy no curso de desenvolvimento de software._
